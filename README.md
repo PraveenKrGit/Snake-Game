@@ -1,9 +1,9 @@
 # Snake-Game
-A Snake Game with Typescript, React, Redux and Redux Saga.
+A Snake Game with Typescript and React.
 
 ### Libraries Used
 
-- For UI: React
-- For Component: Chakra-UI
-- For State Management: Redux
-- For State Management Middlewares: Redux-saga
+- For UI: `React`
+- For Component Library: `Chakra-UI`
+- For State Management: `Redux`
+- For State Management Middlewares: `Redux-saga`
